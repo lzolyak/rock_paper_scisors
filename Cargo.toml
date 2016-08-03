@@ -1,0 +1,8 @@
+[package]
+name = "rock_paper_scisors"
+version = "0.1.0"
+authors = ["lzolyak <lsz2@pitt.edu>"]
+
+[dependencies]
+rand = "0.3.14"
+
